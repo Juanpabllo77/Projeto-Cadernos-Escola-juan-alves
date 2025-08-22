@@ -47,9 +47,9 @@ Professores e profissionais de TI receberão treinamentos direcionados para o us
 | Peso             | Até 2,0 kg                  | Até 1,5 kg                |
 | Conectividade    | Wi-Fi 6, Bluetooth 5.0      | Wi-Fi 6E, Bluetooth 5.2   |
 | Portas           | 2x USB-A, 1x USB-C, HDMI    | 2x Thunderbolt 4, HDMI, USB-A |
-| Garantia         | 12 meses                    | 24 meses                  |
+| Garantia         | 12 meses                    | 24 meses                  
 
-![Notebook Dell](Dell.png) ![Notebook Lenovo](Lenovo.png)  
+<img aling= "center" alt="computador" height= "40%" width= "25%" src= "computador-dell.png"> 
 Figura: Exemplos de notebooks adequados ao ambiente educacional
 
 ---
